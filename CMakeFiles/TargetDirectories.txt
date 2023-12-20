@@ -1,0 +1,3 @@
+C:/Users/Emachines/Projects/Auth/CMakeFiles/Auth.dir
+C:/Users/Emachines/Projects/Auth/CMakeFiles/edit_cache.dir
+C:/Users/Emachines/Projects/Auth/CMakeFiles/rebuild_cache.dir
